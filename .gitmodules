@@ -1,0 +1,4 @@
+[submodule "libuavcan"]
+	path = libuavcan
+	url = ssh://git@github.com/UAVCAN/libuavcan
+	branch = master
